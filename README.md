@@ -27,8 +27,9 @@ Users should be able to:
 ### Screenshot
 
 **Desktop**
- ![Desktop](public/Screenshot%20(126).png) 
- ![Crew](public/Screenshot%20(127).png) 
+![Desktop](public/Screenshot%20(126).png) 
+![Crew](public/Screenshot%20(127).png) 
+
 
 **Tablet**
 ![Tablet](public/Screenshot%20(128).png)
