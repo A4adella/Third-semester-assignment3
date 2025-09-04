@@ -30,9 +30,6 @@ Users should be able to:
 ![Desktop](public/Screenshot%20(126).png) 
 ![Crew](public/Screenshot%20(127).png) 
 
---
-**Tablet**
-![Tablet](public/Screenshot%20(128).png)
 
 **Mobile Views**
 | Mobile | Mobile Navbar |
