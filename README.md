@@ -25,21 +25,23 @@ Users should be able to:
 - View each page and be able to toggle between the tabs to see new information
 
 ### Screenshot
-![Desktop](public/Screenshot%20(126).png)
 
+**Desktop**
+ ![Desktop](public/Screenshot%20(126).png) 
+ ![Crew](public/Screenshot%20(127).png) 
 
+**Tablet**
 ![Tablet](public/Screenshot%20(128).png)
 
-![Mobile](public/Screenshot%20(130).png)
-
-![Crew](public/Screenshot%20(127).png)
-
-![Mobile-navbar](public/Screenshot%20(131).png)
+**Mobile Views**
+| Mobile | Mobile Navbar |
+|--------|--------------|
+| ![Mobile](public/Screenshot%20(130).png) | ![Mobile-navbar](public/Screenshot%20(131).png) |
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/A4adella/Third-semester-assignment3)
+- Live Site URL: [Live Url](https://third-semester-assignment3.vercel.app/)
 
 ### Built with
 
@@ -49,9 +51,6 @@ Users should be able to:
 - Tailwind Css
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-
-
-
 
 
 ## Author
