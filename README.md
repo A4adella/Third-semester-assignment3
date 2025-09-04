@@ -54,6 +54,6 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@A4adella](https://www.frontendmentor.io/profile/A4adella)
-- Twitter - [@AIdemetuk](https://www.X.com/AIdemetuk.com)
+- Twitter - [@AIdemetuk](https://x.com/AIdemetuk)
 
 
